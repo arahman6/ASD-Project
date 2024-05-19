@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="46bf5c26-902a-4405-ae15-5b73752944c2" name="Changes" comment="" />
+    <list default="true" id="46bf5c26-902a-4405-ae15-5b73752944c2" name="Changes" comment="add ui fiels for the project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/bank/BankFrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/bank/BankFrm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/bank/JDialog_AddCompAcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/bank/JDialog_AddCompAcc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/bank/JDialog_AddPAcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/bank/JDialog_AddPAcc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/bank/JDialog_Withdraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/bank/JDialog_Withdraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/ecard/CardFrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/ecard/CardFrm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/ecard/JDialog_Withdraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/ecard/JDialog_Withdraw.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +34,19 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/arifrahman/Project/00. MIU/05_ASD/W4D1/BankingSystemProjectASD/untitled/src/ui/ecard",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ui/ecard" />
+      <recent name="$PROJECT_DIR$/src/ui/bank" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +56,30 @@
       <option name="presentableId" value="Default" />
       <updated>1716143476241</updated>
     </task>
+    <task id="LOCAL-00001" summary="add ui fiels for the project">
+      <option name="closed" value="true" />
+      <created>1716143809810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716143809811</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add ui fiels for the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ui fiels for the project" />
   </component>
 </project>
